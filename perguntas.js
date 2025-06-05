@@ -23,7 +23,7 @@ criaCartao (
 )
 
 criaCartao (
-    'Lingua inglesa'
+    'Lingua inglesa',
     'Como se diz OI em inglês',
     'Oi em inglês é HI (rai)'
 
