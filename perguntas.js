@@ -17,7 +17,14 @@ criaCartao (
 )
 
 criaCartao (
-    'Peogramação'
-    'O que é JavaScript?'
+    'Peogramação',
+    'O que é JavaScript?',
     'JavaScript é uma linguage de Programação'
+)
+
+criaCartao (
+    'Lingua inglesa'
+    'Como se diz OI em inglês',
+    'Oi em inglês é HI (rai)'
+
 )
